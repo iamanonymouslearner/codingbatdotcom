@@ -1,0 +1,1610 @@
+[debug] :: resolving dependencies :: default#codingbatdotcom$sources;0.1
+[debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, pom, scala-tool]
+[debug] 	validate = true
+[debug] 	refresh = false
+[debug] resolving dependencies for configuration 'compile'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-library;2.12.8 {compile=[default, compile, runtime, default(compile), master], runtime=[default, compile, runtime, default(compile), master], test=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], compile-internal=[default, compile, runtime, default(compile), master], runtime-internal=[default, compile, runtime, default(compile), master], test-internal=[default, compile, runtime(*), master(compile), runtime, default(compile), compile(*), master], scala-tool=[default, compile, runtime(*), master(compile), runtime, optional, optional(default), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.12.8
+[debug] 	found org.scala-lang#scala-library;2.12.8 in sbt-chain
+[debug] 	[2.12.8] org.scala-lang#scala-library;2.12.8
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] resolving dependencies for configuration 'runtime'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] resolving dependencies for configuration 'test'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [test]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-support;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-support;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-support;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-firefox-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.eclipse.jetty#jetty-http;8.1.15.v20140411 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-http;8.1.15.v20140411
+[debug] 	found org.eclipse.jetty#jetty-http;8.1.15.v20140411 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->*]
+[debug] sbt-chain: Checking cache for: dependency: org.scalatest#scalatest_2.12;3.0.5 {test=[javadoc, default, system, compile, sources, provided, runtime, *, optional, master], test-internal=[javadoc, default, system, compile, sources, provided, runtime, optional, master]}
+[debug] sbt-chain: module revision found in cache: org.scalatest#scalatest_2.12;3.0.5
+[debug] 	found org.scalatest#scalatest_2.12;3.0.5 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpclient;4.3.6 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpclient;4.3.6
+[debug] 	found org.apache.httpcomponents#httpclient;4.3.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: commons-codec#commons-codec;1.9 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: commons-codec#commons-codec;1.9
+[debug] 	found commons-codec#commons-codec;1.9 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.commons#commons-lang3;3.3.2 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-lang3;3.3.2
+[debug] 	found org.apache.commons#commons-lang3;3.3.2 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-ie-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-ie-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-ie-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.ow2.asm#asm-util;4.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-util;4.1
+[debug] 	found org.ow2.asm#asm-util;4.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpmime;4.3.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpmime;4.3.3
+[debug] 	found org.apache.httpcomponents#httpmime;4.3.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: commons-logging#commons-logging;1.1.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: commons-logging#commons-logging;1.1.3
+[debug] 	found commons-logging#commons-logging;1.1.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.pegdown#pegdown;1.4.2 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.pegdown#pegdown;1.4.2
+[debug] 	found org.pegdown#pegdown;1.4.2 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.parboiled#parboiled-java;1.1.6 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-java;1.1.6
+[debug] 	found org.parboiled#parboiled-java;1.1.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.sourceforge.cssparser#cssparser;0.9.14 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.sourceforge.cssparser#cssparser;0.9.14
+[debug] 	found net.sourceforge.cssparser#cssparser;0.9.14 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: xerces#xercesImpl;2.11.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: xerces#xercesImpl;2.11.0
+[debug] 	found xerces#xercesImpl;2.11.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scalactic#scalactic_2.12;3.0.5 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scalactic#scalactic_2.12;3.0.5
+[debug] 	found org.scalactic#scalactic_2.12;3.0.5 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-api;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-api;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-api;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.mockito#mockito-core;1.10.19 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.mockito#mockito-core;1.10.19
+[debug] 	found org.mockito#mockito-core;1.10.19 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-safari-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-safari-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-safari-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.jmock#jmock-testjar;2.8.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.jmock#jmock-testjar;2.8.3
+[debug] 	found org.jmock#jmock-testjar;2.8.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.ant#ant;1.7.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.ant#ant;1.7.1
+[debug] 	found org.apache.ant#ant;1.7.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: cglib#cglib-nodep;2.2.2 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: cglib#cglib-nodep;2.2.2
+[debug] 	found cglib#cglib-nodep;2.2.2 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.sourceforge.htmlunit#htmlunit-core-js;2.15 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit-core-js;2.15
+[debug] 	found net.sourceforge.htmlunit#htmlunit-core-js;2.15 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.java.dev.jna#jna;3.4.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.java.dev.jna#jna;3.4.0
+[debug] 	found net.java.dev.jna#jna;3.4.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.ow2.asm#asm;5.0.4 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm;5.0.4
+[debug] 	found org.ow2.asm#asm;5.0.4 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-leg-rc;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-leg-rc;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-leg-rc;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang.modules#scala-xml_2.12;1.0.6 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang.modules#scala-xml_2.12;1.0.6
+[debug] 	found org.scala-lang.modules#scala-xml_2.12;1.0.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.java.dev.jna#platform;3.4.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.java.dev.jna#platform;3.4.0
+[debug] 	found net.java.dev.jna#platform;3.4.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.sourceforge.nekohtml#nekohtml;1.9.21 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.sourceforge.nekohtml#nekohtml;1.9.21
+[debug] 	found net.sourceforge.nekohtml#nekohtml;1.9.21 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.eclipse.jetty#jetty-io;8.1.15.v20140411 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-io;8.1.15.v20140411
+[debug] 	found org.eclipse.jetty#jetty-io;8.1.15.v20140411 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: com.google.code.gson#gson;2.3.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: com.google.code.gson#gson;2.3.1
+[debug] 	found com.google.code.gson#gson;2.3.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.jmock#jmock;2.8.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.jmock#jmock;2.8.3
+[debug] 	found org.jmock#jmock;2.8.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.webbitserver#webbit;0.4.14 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.webbitserver#webbit;0.4.14
+[debug] 	found org.webbitserver#webbit;0.4.14 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: com.google.guava#guava;18.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: com.google.guava#guava;18.0
+[debug] 	found com.google.guava#guava;18.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.jmock#jmock-legacy;2.8.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.jmock#jmock-legacy;2.8.3
+[debug] 	found org.jmock#jmock-legacy;2.8.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: io.netty#netty;3.5.2.Final {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: io.netty#netty;3.5.2.Final
+[debug] 	found io.netty#netty;3.5.2.Final in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.eclipse.jetty#jetty-util;8.1.15.v20140411 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-util;8.1.15.v20140411
+[debug] 	found org.eclipse.jetty#jetty-util;8.1.15.v20140411 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-remote-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-remote-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-remote-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.easymock#easymockclassextension;3.2 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.easymock#easymockclassextension;3.2
+[debug] 	found org.easymock#easymockclassextension;3.2 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-compiler;2.12.8 {test=[compile, runtime(*), provided, master(compile), runtime, provided(*), compile(*), master], test-internal=[compile, runtime(*), provided, master(compile), runtime, provided(*), compile(*), master], scala-tool=[default, compile, runtime, optional, optional(default), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-compiler;2.12.8
+[debug] 	found org.scala-lang#scala-compiler;2.12.8 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->provided(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.ow2.asm#asm-all;4.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-all;4.1
+[debug] 	found org.ow2.asm#asm-all;4.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.easymock#easymock;3.2 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.easymock#easymock;3.2
+[debug] 	found org.easymock#easymock;3.2 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scalacheck#scalacheck_2.12;1.13.5 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scalacheck#scalacheck_2.12;1.13.5
+[debug] 	found org.scalacheck#scalacheck_2.12;1.13.5 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: xalan#xalan;2.7.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: xalan#xalan;2.7.1
+[debug] 	found xalan#xalan;2.7.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-chrome-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0
+[debug] 	found org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: com.google.inject#guice;4.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: com.google.inject#guice;4.0
+[debug] 	found com.google.inject#guice;4.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.testng#testng;6.7 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.testng#testng;6.7
+[debug] 	found org.testng#testng;6.7 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: commons-io#commons-io;2.4 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: commons-io#commons-io;2.4
+[debug] 	found commons-io#commons-io;2.4 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.httpcomponents#httpcore;4.3.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.httpcomponents#httpcore;4.3.3
+[debug] 	found org.apache.httpcomponents#httpcore;4.3.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache-extras.beanshell#bsh;2.0b6 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache-extras.beanshell#bsh;2.0b6
+[debug] 	found org.apache-extras.beanshell#bsh;2.0b6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.hamcrest#hamcrest-library;1.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-library;1.3
+[debug] 	found org.hamcrest#hamcrest-library;1.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.w3c.css#sac;1.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.w3c.css#sac;1.3
+[debug] 	found org.w3c.css#sac;1.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-lang#scala-reflect;2.12.8 {test=[compile, runtime(*), master(compile), runtime, compile(*), master], test-internal=[compile, runtime(*), master(compile), runtime, compile(*), master], scala-tool=[compile, runtime(*), master(compile), runtime, compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-lang#scala-reflect;2.12.8
+[debug] 	found org.scala-lang#scala-reflect;2.12.8 in sbt-chain
+[debug] 	[2.12.8] org.scala-lang#scala-reflect;2.12.8
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: junit#junit;4.12 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: junit#junit;4.12
+[debug] 	found junit#junit;4.12 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: cglib#cglib;3.2.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: cglib#cglib;3.2.0
+[debug] 	found cglib#cglib;3.2.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.hamcrest#hamcrest-core;1.3 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.hamcrest#hamcrest-core;1.3
+[debug] 	found org.hamcrest#hamcrest-core;1.3 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: aopalliance#aopalliance;1.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: aopalliance#aopalliance;1.0
+[debug] 	found aopalliance#aopalliance;1.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: net.sourceforge.htmlunit#htmlunit;2.15 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: net.sourceforge.htmlunit#htmlunit;2.15
+[debug] 	found net.sourceforge.htmlunit#htmlunit;2.15 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: xml-apis#xml-apis;1.4.01 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: xml-apis#xml-apis;1.4.01
+[debug] 	found xml-apis#xml-apis;1.4.01 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.objenesis#objenesis;2.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.objenesis#objenesis;2.1
+[debug] 	found org.objenesis#objenesis;2.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.apache.commons#commons-exec;1.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.apache.commons#commons-exec;1.1
+[debug] 	found org.apache.commons#commons-exec;1.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.ow2.asm#asm-tree;4.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-tree;4.1
+[debug] 	found org.ow2.asm#asm-tree;4.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.yaml#snakeyaml;1.6 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.yaml#snakeyaml;1.6
+[debug] 	found org.yaml#snakeyaml;1.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.scala-sbt#test-interface;1.0 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.scala-sbt#test-interface;1.0
+[debug] 	found org.scala-sbt#test-interface;1.0 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: com.beust#jcommander;1.12 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: com.beust#jcommander;1.12
+[debug] 	found com.beust#jcommander;1.12 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: commons-collections#commons-collections;3.2.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: commons-collections#commons-collections;3.2.1
+[debug] 	found commons-collections#commons-collections;3.2.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.ow2.asm#asm-analysis;4.1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.ow2.asm#asm-analysis;4.1
+[debug] 	found org.ow2.asm#asm-analysis;4.1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: javax.inject#javax.inject;1 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: javax.inject#javax.inject;1
+[debug] 	found javax.inject#javax.inject;1 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.parboiled#parboiled-core;1.1.6 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.parboiled#parboiled-core;1.1.6
+[debug] 	found org.parboiled#parboiled-core;1.1.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->compile]
+[debug] sbt-chain: Checking cache for: dependency: org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 {test=[compile, master(compile), compile(*), master], test-internal=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: org.eclipse.jetty#jetty-websocket;8.1.15.v20140411
+[debug] 	found org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->master]
+[debug] resolving dependencies for configuration 'provided'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [provided]
+[debug] resolving dependencies for configuration 'optional'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [optional]
+[debug] resolving dependencies for configuration 'compile-internal'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile-internal]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [optional]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile-internal->master]
+[debug] resolving dependencies for configuration 'runtime-internal'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [runtime-internal]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [optional]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime-internal->master]
+[debug] resolving dependencies for configuration 'test-internal'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [test-internal]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [test]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [runtime]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [compile->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [runtime->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->javadoc]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->system]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->sources]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->optional]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->provided(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test->master]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [optional]
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-support;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-firefox-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-http;8.1.15.v20140411 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->javadoc]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->system]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->sources]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->optional]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalatest#scalatest_2.12;3.0.5 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpclient;4.3.6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-codec#commons-codec;1.9 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-lang3;3.3.2 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-ie-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-util;4.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpmime;4.3.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-logging#commons-logging;1.1.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.pegdown#pegdown;1.4.2 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-java;1.1.6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.cssparser#cssparser;0.9.14 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->default(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xerces#xercesImpl;2.11.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalactic#scalactic_2.12;3.0.5 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-api;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.mockito#mockito-core;1.10.19 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-safari-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-testjar;2.8.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.ant#ant;1.7.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib-nodep;2.2.2 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit-core-js;2.15 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#jna;3.4.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm;5.0.4 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-leg-rc;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.java.dev.jna#platform;3.4.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.nekohtml#nekohtml;1.9.21 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-io;8.1.15.v20140411 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.code.gson#gson;2.3.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock;2.8.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.webbitserver#webbit;0.4.14 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.guava#guava;18.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.jmock#jmock-legacy;2.8.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->io.netty#netty;3.5.2.Final [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-util;8.1.15.v20140411 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-remote-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymockclassextension;3.2 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->provided]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->provided(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-all;4.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.easymock#easymock;3.2 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scalacheck#scalacheck_2.12;1.13.5 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xalan#xalan;2.7.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-chrome-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.google.inject#guice;4.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.testng#testng;6.7 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-io#commons-io;2.4 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.httpcomponents#httpcore;4.3.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache-extras.beanshell#bsh;2.0b6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-library;1.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.w3c.css#sac;1.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->junit#junit;4.12 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->cglib#cglib;3.2.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.hamcrest#hamcrest-core;1.3 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->aopalliance#aopalliance;1.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->net.sourceforge.htmlunit#htmlunit;2.15 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->xml-apis#xml-apis;1.4.01 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.objenesis#objenesis;2.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.apache.commons#commons-exec;1.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-tree;4.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.yaml#snakeyaml;1.6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-sbt#test-interface;1.0 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->com.beust#jcommander;1.12 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->commons-collections#commons-collections;3.2.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.ow2.asm#asm-analysis;4.1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->javax.inject#javax.inject;1 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.parboiled#parboiled-core;1.1.6 [test-internal->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test-internal->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test-internal->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test-internal->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.eclipse.jetty#jetty-websocket;8.1.15.v20140411 [test-internal->master]
+[debug] resolving dependencies for configuration 'plugin'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [plugin]
+[debug] resolving dependencies for configuration 'pom'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [pom]
+[debug] resolving dependencies for configuration 'scala-tool'
+[debug] == resolving dependencies for default#codingbatdotcom$sources;0.1 [scala-tool]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->optional]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-library;2.12.8 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang.modules#scala-xml_2.12;1.0.6 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->default]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->optional]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->optional(default)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-compiler;2.12.8 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->runtime(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->runtime]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->compile]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->org.scala-lang#scala-reflect;2.12.8 [scala-tool->master]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->jline#jline;2.14.6 [scala-tool->compile]
+[debug] sbt-chain: Checking cache for: dependency: jline#jline;2.14.6 {scala-tool=[compile, master(compile), compile(*), master]}
+[debug] sbt-chain: module revision found in cache: jline#jline;2.14.6
+[debug] 	found jline#jline;2.14.6 in sbt-chain
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->jline#jline;2.14.6 [scala-tool->master(compile)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->jline#jline;2.14.6 [scala-tool->compile(*)]
+[debug] == resolving dependencies default#codingbatdotcom$sources;0.1->jline#jline;2.14.6 [scala-tool->master]
+[debug] 	resolved ivy file produced in cache
+[debug] :: downloading artifacts ::
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-library;2.12.8!scala-library.jar(src)
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-support;2.45.0!selenium-support.jar(src)
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-firefox-driver;2.45.0!selenium-firefox-driver.jar(src)
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] 	[NOT REQUIRED] org.eclipse.jetty#jetty-http;8.1.15.v20140411!jetty-http.jar(src)
+[debug] 	[NOT REQUIRED] org.scalatest#scalatest_2.12;3.0.5!scalatest_2.12.jar(src)
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] settings loaded (39ms)
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpclient;4.3.6!httpclient.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] no default ivy user dir defined: set to /Users/lakshmi/.ivy2
+[debug] 	[NOT REQUIRED] commons-codec#commons-codec;1.9!commons-codec.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-lang3;3.3.2!commons-lang3.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-ie-driver;2.45.0!selenium-ie-driver.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-public.xml
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-util;4.1!asm-util.jar(src)
+[debug] settings loaded (39ms)
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpmime;4.3.3!httpmime.jar(src)
+[debug] 	local [file]
+[debug] no default cache defined: set to /Users/lakshmi/.ivy2/cache
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-shared.xml
+[debug] 	[NOT REQUIRED] commons-logging#commons-logging;1.1.3!commons-logging.jar(src)
+[debug] 	[NOT REQUIRED] org.pegdown#pegdown;1.4.2!pegdown.jar(src)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-java;1.1.6!parboiled-java.jar(src)
+[debug] 	[NOT REQUIRED] net.sourceforge.cssparser#cssparser;0.9.14!cssparser.jar(src)
+[debug] 	[NOT REQUIRED] xerces#xercesImpl;2.11.0!xercesImpl.jar(src)
+[debug] 	[NOT REQUIRED] org.scalactic#scalactic_2.12;3.0.5!scalactic_2.12.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-api;2.45.0!selenium-api.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-local.xml
+[debug] 	[NOT REQUIRED] org.mockito#mockito-core;1.10.19!mockito-core.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-safari-driver;2.45.0!selenium-safari-driver.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.ant#ant;1.7.1!ant.jar(src)
+[debug] 	[NOT REQUIRED] org.jmock#jmock-testjar;2.8.3!jmock-testjar.jar(src)
+[debug] settings loaded (49ms)
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	[NOT REQUIRED] cglib#cglib-nodep;2.2.2!cglib-nodep.jar(src)
+[debug] 	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit-core-js;2.15!htmlunit-core-js.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm;5.0.4!asm.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-leg-rc;2.45.0!selenium-leg-rc.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-main-chain.xml
+[debug] 	[NOT REQUIRED] org.scala-lang.modules#scala-xml_2.12;1.0.6!scala-xml_2.12.jar(src)
+[debug] 	[NOT REQUIRED] net.java.dev.jna#platform;3.4.0!platform.jar(src)
+[debug] 	[NOT REQUIRED] org.eclipse.jetty#jetty-io;8.1.15.v20140411!jetty-io.jar(src)
+[debug] 	[NOT REQUIRED] net.sourceforge.nekohtml#nekohtml;1.9.21!nekohtml.jar(src)
+[debug] 	[NOT REQUIRED] net.java.dev.jna#jna;3.4.0!jna.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] 	[NOT REQUIRED] org.jmock#jmock;2.8.3!jmock.jar(src)
+[debug] 	[NOT REQUIRED] com.google.code.gson#gson;2.3.1!gson.jar(src)
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] including url: jar:file:/Users/lakshmi/.sbt/boot/scala-2.12.7/org.scala-sbt/sbt/1.2.8/ivy-2.3.0-sbt-cb9cc189e9f3af519f9f102e6c5d446488ff6832.jar!/org/apache/ivy/core/settings/ivysettings-default-chain.xml
+[debug] 	[NOT REQUIRED] org.webbitserver#webbit;0.4.14!webbit.jar(src)
+[debug] settings loaded (51ms)
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] settings loaded (10ms)
+[debug] settings loaded (47ms)
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	default cache: /Users/lakshmi/.ivy2/cache
+[debug] 	default resolver: default
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	-- 5 resolvers:
+[debug] 	shared [file]
+[debug] 	default [chain] [local, main]
+[debug] 	default [chain] [local, main]
+[debug] 	public [ibiblio]
+[debug] 	public [ibiblio]
+[debug] 	main [chain] [shared, public]
+[debug] 	main [chain] [shared, public]
+[debug] 	local [file]
+[debug] 	local [file]
+[debug] 	[NOT REQUIRED] com.google.guava#guava;18.0!guava.jar(src)
+[debug] 	[NOT REQUIRED] org.jmock#jmock-legacy;2.8.3!jmock-legacy.jar(src)
+[debug] 	[NOT REQUIRED] io.netty#netty;3.5.2.Final!netty.jar(src)
+[debug] 	[NOT REQUIRED] org.eclipse.jetty#jetty-util;8.1.15.v20140411!jetty-util.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-remote-driver;2.45.0!selenium-remote-driver.jar(src)
+[debug] 	[NOT REQUIRED] org.easymock#easymockclassextension;3.2!easymockclassextension.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-compiler;2.12.8!scala-compiler.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-all;4.1!asm-all.jar(src)
+[debug] 	[NOT REQUIRED] org.easymock#easymock;3.2!easymock.jar(src)
+[debug] 	[NOT REQUIRED] org.scalacheck#scalacheck_2.12;1.13.5!scalacheck_2.12.jar(src)
+[debug] 	[NOT REQUIRED] xalan#xalan;2.7.1!xalan.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-htmlunit-driver;2.45.0!selenium-htmlunit-driver.jar(src)
+[debug] 	[NOT REQUIRED] org.seleniumhq.selenium#selenium-chrome-driver;2.45.0!selenium-chrome-driver.jar(src)
+[debug] 	[NOT REQUIRED] commons-io#commons-io;2.4!commons-io.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.httpcomponents#httpcore;4.3.3!httpcore.jar(src)
+[debug] 	[NOT REQUIRED] org.apache-extras.beanshell#bsh;2.0b6!bsh.jar(src)
+[debug] 	[NOT REQUIRED] com.google.inject#guice;4.0!guice.jar(src)
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-library;1.3!hamcrest-library.jar(src)
+[debug] 	[NOT REQUIRED] org.w3c.css#sac;1.3!sac.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-lang#scala-reflect;2.12.8!scala-reflect.jar(src)
+[debug] 	[NOT REQUIRED] junit#junit;4.12!junit.jar(src)
+[debug] 	[NOT REQUIRED] cglib#cglib;3.2.0!cglib.jar(src)
+[debug] 	[NOT REQUIRED] xml-apis#xml-apis;1.4.01!xml-apis.jar(src)
+[debug] 	[NOT REQUIRED] org.hamcrest#hamcrest-core;1.3!hamcrest-core.jar(src)
+[debug] 	[NOT REQUIRED] net.sourceforge.htmlunit#htmlunit;2.15!htmlunit.jar(src)
+[debug] 	[NOT REQUIRED] aopalliance#aopalliance;1.0!aopalliance.jar(src)
+[debug] 	[NOT REQUIRED] org.objenesis#objenesis;2.1!objenesis.jar(src)
+[debug] 	[NOT REQUIRED] org.apache.commons#commons-exec;1.1!commons-exec.jar(src)
+[debug] 	[NOT REQUIRED] org.scala-sbt#test-interface;1.0!test-interface.jar(src)
+[debug] 	[NOT REQUIRED] org.yaml#snakeyaml;1.6!snakeyaml.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-tree;4.1!asm-tree.jar(src)
+[debug] 	[NOT REQUIRED] com.beust#jcommander;1.12!jcommander.jar(src)
+[debug] 	[NOT REQUIRED] commons-collections#commons-collections;3.2.1!commons-collections.jar(src)
+[debug] 	[NOT REQUIRED] org.ow2.asm#asm-analysis;4.1!asm-analysis.jar(src)
+[debug] 	[NOT REQUIRED] javax.inject#javax.inject;1!javax.inject.jar(src)
+[debug] 	[NOT REQUIRED] org.parboiled#parboiled-core;1.1.6!parboiled-core.jar(src)
+[debug] 	[NOT REQUIRED] jline#jline;2.14.6!jline.jar(src)
+[debug] 	[NOT REQUIRED] org.eclipse.jetty#jetty-websocket;8.1.15.v20140411!jetty-websocket.jar(src)
+[debug] 	[NOT REQUIRED] org.testng#testng;6.7!testng.jar(src)
+[debug] :: resolution report :: resolve 1456ms :: artifacts dl 85ms
+[debug] 	report for default#codingbatdotcom$sources;0.1 compile produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-compile.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 runtime produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-runtime.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 test produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-test.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 provided produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-provided.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 optional produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-optional.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 compile-internal produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-compile-internal.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 runtime-internal produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-runtime-internal.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 test-internal produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-test-internal.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 plugin produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-plugin.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 pom produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-pom.xml
+[debug] 	report for default#codingbatdotcom$sources;0.1 scala-tool produced in /Users/lakshmi/IdeaProjects/Codingbatdotcom/target/scala-2.12/resolution-cache/reports/default-codingbatdotcom$sources-scala-tool.xml
+[debug] 	resolve done (1456ms resolve - 85ms download)

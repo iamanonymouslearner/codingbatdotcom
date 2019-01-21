@@ -1,57 +1,26 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TwoCharTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MonkeyTroubleTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HelloNameTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Right2Test, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ComboStringTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NonStartTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Diff21Test, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SumDoubleTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SleepTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeAbbaTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TheEndTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Left2Test, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Makes10Test, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ExtraEndTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(WithouEnd2Test, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(WithOutEndTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HadBadTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PosNegTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MiddleTwoTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FirstTwoTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MiddleThreeTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeOutWordTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NearHundredTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeTagsTest, org.scalatest.tools.Framework$$anon$1@78d10abb, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Diff21Test, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(FirstTwoTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(WithOutEndTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HelloNameTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(HadBadTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(PosNegTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MiddleThreeTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Left2Test, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ExtraEndTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeTagsTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NearHundredTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeOutWordTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SleepTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MakeAbbaTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MonkeyTroubleTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Right2Test, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TwoCharTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TheEndTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(Makes10Test, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ComboStringTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(WithouEnd2Test, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(NonStartTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(SumDoubleTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(MiddleTwoTest, org.scalatest.tools.Framework$$anon$1@ada195c, false, [SuiteSelector])[0m
 [0m[[0m[0mdebug[0m] [0m[0mSummary for ScalaCheck not available.[0m
 [0m[[0m[0minfo[0m] [0m[0mScalaTest[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 846 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 173[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 24, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 173, failed 0, canceled 0, ignored 0, pending 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0mPassed: Total 173, Failed 0, Errors 0, Passed 173[0m
-[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
-[0m[[0m[0mdebug[0m] [0m[0m	HadBadTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	NearHundredTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TwoCharTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	FirstTwoTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SleepTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ComboStringTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MakeAbbaTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	TheEndTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Diff21Test[0m
-[0m[[0m[0mdebug[0m] [0m[0m	PosNegTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Makes10Test[0m
-[0m[[0m[0mdebug[0m] [0m[0m	ExtraEndTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	WithOutEndTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MonkeyTroubleTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MakeTagsTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Left2Test[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MakeOutWordTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	WithouEnd2Test[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MiddleTwoTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	MiddleThreeTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	Right2Test[0m
-[0m[[0m[0mdebug[0m] [0m[0m	HelloNameTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	SumDoubleTest[0m
-[0m[[0m[0mdebug[0m] [0m[0m	NonStartTest[0m
