@@ -1,4 +1,3 @@
-import Array1.MakePi
 import org.scalatest.FunSuite
 
 class MakePiTest extends FunSuite

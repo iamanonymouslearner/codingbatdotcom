@@ -1,4 +1,3 @@
-import Array1.SameFirstLast
 import org.scalatest.FunSuite
 
 class SameFirstLastTest extends FunSuite

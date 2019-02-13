@@ -1,7 +1,35 @@
 package Array1
 
-object ArrayOne extends App
+object Array1 extends App
 {
+
+  def commonEnd(array1:Array[Int],array2:Array[Int]) : Boolean =
+  {
+    if(array1.length > 1 && array2.length > 1)
+      array1.head==array2.head || array1.last==array2.last
+    else
+      false
+  }
+
+  def firstLast6(nums:Array[Int]) : Boolean =
+  {
+    if(nums.length < 1) false else (nums.head==6 || nums.last==6)
+  }
+
+  def makePi() : Array[Int] =
+  {
+    val first3ValuesOfPi = Math.PI.toString.take(4)
+    (first3ValuesOfPi.head.toString+
+      first3ValuesOfPi.tail.tail.head.toString+
+      first3ValuesOfPi.last.toString).toArray.map(_.toString).map(_.toInt)
+  }
+
+  def sameFirstLast(nums:Array[Int]) : Boolean = {
+
+    if(nums.length >= 1) (nums.head == nums.last) else false
+  }
+
+
   //Given an array of ints length 3, return the sum of all the elements.
 
   def Sum3(arr:Array[Int]) : Int =

@@ -1,4 +1,3 @@
-import Array1.CommonEnd
 import org.scalatest.FunSuite
 
 class CommonEndTest extends FunSuite

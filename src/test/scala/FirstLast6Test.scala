@@ -1,4 +1,3 @@
-import Array1.FirstLast6
 import org.scalatest.FunSuite
 
 class FirstLast6Test extends FunSuite
