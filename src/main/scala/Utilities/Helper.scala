@@ -1,9 +1,10 @@
 package Utilities
 
+import java.io.File
 import java.util.Calendar
 
 import scala.util.Random
-import scala.collection.mutable.{HashMap, MultiMap, LinkedHashSet, Set}
+import scala.collection.mutable.{HashMap, LinkedHashSet, MultiMap, Set}
 
 trait OrderedMultiMap[K, V] extends scala.collection.mutable.MultiMap[K, V] {
   override def makeSet: scala.collection.mutable.Set[V] = new scala.collection.mutable.LinkedHashSet[V]
@@ -11,6 +12,42 @@ trait OrderedMultiMap[K, V] extends scala.collection.mutable.MultiMap[K, V] {
 
 object Helper
 {
+  var fileList : List[String] = List()
+
+  /*Get the file name from the path */
+  def GetFileNameFromPath(path : String) : Array[String] =
+  {
+    var fileName : Array[String] = Array.empty
+    if(path != null || !path.isEmpty)
+    {
+       val pathlist = path.split("/")
+       fileName = pathlist.reverse
+    }
+    fileName
+  }
+  /*Get the list of files from sub folders */
+  def GetFileList(Directory : String) : List[String] =
+  {
+     val fp = new File(Directory)
+     val dirList = fp.listFiles()
+     for(file<-dirList)
+     {
+         if(file.isFile)
+           fileList = file.getAbsolutePath :: fileList
+         else
+           GetFileList(file.getAbsolutePath)
+     }
+    fileList
+  }
+
+
+  /* Get the current directory */
+  def GetCurrentDirectory(unit: Unit) : String =
+  {
+    val CurrentDirectory = System.getProperty("user.dir")
+    CurrentDirectory
+  }
+
   /*Get today date in the format year-month-date */
   def GetCurrentdate(unit: Unit) : String =
   {
